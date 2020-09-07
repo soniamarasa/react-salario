@@ -1,0 +1,16 @@
+.boldFont {
+    font-weight: bold;
+    color: black !important;
+}
+
+.inssDesconto {
+    color: #e67e22 !important;
+}
+
+.irpfDesconto {
+    color: #c0392b !important;
+}
+
+.salarioLiq {
+    color: #16a085 !important;
+}
